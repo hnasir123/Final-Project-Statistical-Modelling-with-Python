@@ -43,4 +43,4 @@ Complete the **joining_data.ipynb** notebook to demonstrate how you executed the
 2. Interpret results. Expand on the model output, and derive insights from your model.
 3. Stretch: can you think of a way to turn the above regression problem into a classification one? Without coding, can you sketch out how you would cast the problem specifically, and lay out your approaches?
 
-Complete the **model_building.ipynb** notebook to demonstrate how you executed the tasks above.
+Complete the **model_building.ipynb** notebook to demonstrate how you executed the tasks above
